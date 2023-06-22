@@ -12,7 +12,7 @@ My name is Agustin Vilariño, i am software developer from  📌  Buenos Aires, 
 
 📐  Backend - Design  📐
 
-![Screenshot](https://raw.githubusercontent.com/avilarino/backend-banco/master/images/cuenta-bancaria-uml.png)
+![Screenshot](https://raw.githubusercontent.com/avilarino/java-backend-bank/master/images/cuenta-bancaria-uml.png)
 
 
 
@@ -21,4 +21,4 @@ Follow Me  🙌  ☎️
 -   Social Media:
     -   [Linkedin](https://www.linkedin.com/in/agust%C3%ADn-vilari%C3%B1o-17914564/)
         
-    -   [Github](http
+    -   [Github](https://github.com/avilarino)
